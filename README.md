@@ -38,9 +38,35 @@ TODO:
 TODO:
 
 
+#### By Operating System
+
+- Ubuntu
+
+- Windows
+
+
+#### By Web Host
+
 
 ### Usage
 TODO:
+
+
+#### Basics 
+
+
+##### Pages
+
+
+**Attributes**
+
+- Title – free form text
+- Slug – URL for the page, generated from the page title by default
+- Breadcrumb – automatically mirrors the page title by default
+- Description – a brief description of the page content
+- Keywords – a comma separated list of words pertaining to the page content
+- Author
+- Date (published at, updated at)
 
 
 
