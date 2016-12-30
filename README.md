@@ -1,7 +1,7 @@
 ![Banner](_assets/BWR_Banner.png)
 
 ------------
- Blog With Ruby is a simple but full featured web publishing software.
+ Blog With Ruby is a simple but full featured web publishing software. 
 
 ### Features
 - A classic multi user blogging engine
@@ -9,10 +9,18 @@
 - A widgets system and a plugin API
 - Custom themes
 - Advanced SEO capabilitie
+- Custom content models
+- Advanced custom fields
+- Easy to use Admin UI
+- Media library
 
 
 ## Installation
 TODO: Describe the installation process
+
+### Dependencies
+- Rails 4.2+
+- PostgreSQL 9.4
 
 
 
