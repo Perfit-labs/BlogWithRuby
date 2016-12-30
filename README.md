@@ -1,6 +1,7 @@
 ![Banner](_assets/BWR_Banner.png)
 
-# Blog With Ruby
+------------
+
 TODO: Write a project description
 
 
