@@ -1,7 +1,6 @@
 ![Banner](_assets/BWR_Banner.png)
-<snippet>
-  <content><![CDATA[
-# ${1:Blog With Ruby}
+
+# Blog With Ruby
 TODO: Write a project description
 
 
@@ -44,6 +43,3 @@ TODO: Write license
 
 
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
