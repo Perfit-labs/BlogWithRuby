@@ -1,3 +1,11 @@
+# WARNING
+This is a brand new open source project and will be announcing when we develop a working prototype
+
+## Looking for contributors 
+
+
+
+
 ![Banner](_assets/BWR_Banner.png)
 
 ------------
