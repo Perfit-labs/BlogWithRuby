@@ -3,7 +3,7 @@
 ------------
  Blog With Ruby is a simple but full featured web publishing software. 
 
-### Features
+### FEATURES
 - A classic multi user blogging engine
 - Text filters
 - A widgets system and a plugin API
@@ -15,21 +15,21 @@
 - Media library
 
 
-## Installation
+## INSTALLATION
 TODO: Describe the installation process
 
-### Dependencies
+### DEPENDENCIES
 - Rails 4.2+
 - PostgreSQL 9.4
 
 
 
-## Usage
+## USAGE
 TODO: Write usage instructions
 
 
 
-## Contributing
+## CONTRIBUTING
 1. Fork it!
 
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -41,18 +41,18 @@ TODO: Write usage instructions
 5. Submit a pull request :D
 
 
-## History
+## CHANGE LOG
 TODO: Write history
 
 
 
 
-## Credits
+## CREDITS
 TODO: Write credits
 
 
 
-## License
+## LICENSE
 TODO: Write license
 
 
