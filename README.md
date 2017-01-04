@@ -1,5 +1,6 @@
-# WARNING
-This is a brand new open source project and will be announcing when we develop a working prototype
+# INFO
+## This is for beginners (and experts if they want) to build something to improve your skills.
+## This is a brand new open source project and will be announcing when we develop a working prototype
 
 ## Looking for contributors 
 
